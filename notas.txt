@@ -1,3 +1,8 @@
 compras lista
 -pollo
--verduras
+-verdura
+
+pollo con mole
+-mole
+-pollo
+-arroz
